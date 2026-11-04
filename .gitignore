@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 venv/
 __pycache__/
 *.pyc
@@ -20,7 +20,7 @@ data/temp_csv/
 ai_backup/
 dashboard_backup/
 
-# Temporary accidental files
+# Temporary files
 hboard_backup status
 how --stat --oneline HEAD
 
